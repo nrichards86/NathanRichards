@@ -1,0 +1,78 @@
+<DOCTYPE html>
+<html>
+<title>NathanRichards</title>
+<head>
+<h1>Nathan Richards</h1>
+<p>Welcome to the personal website of Nathan Richards.</p>
+</head>
+<body>
+<div id="box1"
+</div>
+<div class="title">
+<h2>About Me</h2>
+</div>
+<p> I am a 19 year old guy, who has a passion for web design. I went to a tarde school to focus on Web Application and Game Development the last 2 years of highschool, which is where I found my love for coding. I reside in the area of Cincinnati, Ohio. I write articles covering the Cincinnati Cyclones for a journalism site called The Puck Authority. I love to read and play video games in my spare time. I love to watch sports. My favourite sport is hockey. I am a writer of articles, movies, and songs. I love to travel especially if it's a road trip. My favourite season is Autumn</p>
+</div>
+<div id="box2">
+<div class="title">
+<h2My favourite quotes</h2
+</div>
+<q>You miss 100% of the shots you don't take</q><p>-Wayne Gretzky</p>
+<q>Leadership isn't how you get your point across, it's how effective it is at helping the team win</1><p>-Nathan Richards</p>
+</div>
+<div id="box3">
+<div class="title">
+<h2>More About Me</h2>
+</div>
+<h4>Why to Hire Me<h4>
+<p>I'm a team player and always attempt to be a great leader for people. I love to smile and help people. I get along with most people I meet. I am constantly looking for new things to learn and add to my skillset. I am alwyas a positive person</p>
+<h4>Skills</h4>
+<p>HTML, CSS, Javascript, React.JS, Google Docs, Mictosoft Word, Python, IT and Help Desk, GitHub, and Wordpress</p>
+<h4>Want To Know More About Me or Contact Me?</h4>
+<p>Feel free to get in contact with me by trying one of the ways in the "Contact Me"Section. I will anwser at my earliest possible time. I will hapily discuss doing a writing or web design job with you there, or tell you more about me and what I can bring to you</p>
+</div>
+<div id-"box4">
+<div class="title">
+<h2Links</h2
+</div>
+<ul>
+<li><a href="https://thepuckauthority.com/?s=cincinnati+cyclones"><Find My Articles Here></a></li>
+<li><a href="https://afflacawake.com/"><Find My Youtube Channel's Website Here></a></li>
+<li><a href="https://thepuckauthority.com/author/nathan-richards/"><Find All of My TPA Articles Here></a></li>
+</ul>
+</div>
+<div id="box5">
+<div class="title">
+<h2> My Social Media</h2>
+</div>
+<ul>
+<li><a href="https://www.facebook.com/nathanrichards007"><Find Me on facebook></a></li>
+<li><a href="https://twitter.com/NRichards_86">Follow My Perosnal Twitter></a></li>
+<li><a href="https://twitter.com/cyclonestpa"><Foloow the TPA Cyclones Twitter</a></li>
+<li><a href="https://twitter.com/PuckAuthority1"><Follow the TPA Main Account on Twitter></a></li>
+<li><a href="https://www.youtube.com/channel/UCJcd-MMNXj-wsm8yrYzI46A"><Subscribe to My Main YouTube Channel></a></li>
+<li><a href="https://www.youtube.com/channel/UCQQ-7SpcESzqdlaeP9H1g8w"><Subscribe to My Gaming Youtube Channel></a></li>
+<li><a href="https://www.twitch.tv/waterthunder567"><Follow ME on twitch></a></li>
+<li><a href="https://www.linkedin.com/feed/"><Find Me on Linkedin></a></li>
+<li><a href="https://www.tiktok.com/@waterthunder567?lang=en?"><Foloow Me on TikTok></a></li>
+<li><a href="https://discord.com/invite/HBdNvcY"><Join My Discord Server></a></li>
+<li><a href="https://github.com/nrichards86"><Find Me on GitHub></a></li>
+</ul>
+</div>
+<div id="box6">
+<div class="title">
+<h2> Contact Me</h2>
+</div>
+<ul>
+<li><p>Phone Number (For Business Use Only)= (513)-505-8150</p></li>
+<li><a href="mailto:Email: nuckels35@gmail.com"><Email My Personal Email></a></li>
+<li><a href="mailto"Email: nathanrichardstpa@gmail.com"><Email My Business Email></a></li>
+<li><p>Also feel free to attempt to contact me through my DM's on social media</p></li>
+</ul>
+</div>
+</body>
+<text-align: center>
+<h4>Copyright</h4>
+<div class="copyright">&copy;2021 Nathan Richards All Rights Reserved
+</div>
+</html>
