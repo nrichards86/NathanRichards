@@ -6,7 +6,7 @@
 <p>Welcome to the personal website of Nathan Richards.</p>
 </head>
 <body>
-<div id="box1"
+<div id="box1">
 </div>
 <div class="title">
 <h2>About Me</h2>
@@ -15,7 +15,7 @@
 </div>
 <div id="box2">
 <div class="title">
-<h2My favourite quotes</h2
+<h2>My favourite quotes</h2
 </div>
 <q>You miss 100% of the shots you don't take</q><p>-Wayne Gretzky</p>
 <q>Leadership isn't how you get your point across, it's how effective it is at helping the team win</1><p>-Nathan Richards</p>
@@ -33,7 +33,7 @@
 </div>
 <div id-"box4">
 <div class="title">
-<h2Links</h2
+<h2>Links</h2
 </div>
 <ul>
 <li><a href="https://thepuckauthority.com/?s=cincinnati+cyclones"><Find My Articles Here></a></li>
@@ -73,6 +73,6 @@
 </body>
 <text-align: center>
 <h4>Copyright</h4>
-<div class="copyright">&copy;2021 Nathan Richards All Rights Reserved
+<div class="copyright">&copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script> Nathan Richards All Rights Reserved
 </div>
 </html>
